@@ -27,6 +27,11 @@
   #social {
     top: 72px;
   }
+  .col-3{
+    -moz-column-count: 3;
+    -webkit-column-count: 3;
+    column-count: 2;
+  }
 
 }
 
